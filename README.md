@@ -1,0 +1,1 @@
+This project is a Java game using Swing framework. In order to run the game please compile the Show class. 
